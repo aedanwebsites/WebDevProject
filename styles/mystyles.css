@@ -1,0 +1,31 @@
+.bold {
+    font-size: 28px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: cornsilk;
+}
+
+.title {
+    font-size: 60px;
+    font-weight: bolder;
+    color: cornsilk;
+    text-decoration: underline;
+}
+
+.header {
+    font-family: monospace;
+    font-weight: lighter;
+    color: darkgoldenrod;
+    font-style: italic;
+    text-align: center;
+    font-size; 32px;
+}
+
+.paragraph {
+    text-align: center;
+    font-style: normal;
+    color: brown;
+    font-family: serif;
+    font-size: 20px;
+}
